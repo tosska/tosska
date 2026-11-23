@@ -33,10 +33,6 @@ A Python-based network and service monitoring tool featuring DNS resolution, TCP
 
 A full-stack web application built with Angular, Express, Sequelize and PostgreSQL.
 
-**[Progetto OOBD](https://github.com/tosska/progetto_oobd)**
-
-An academic project involving object-oriented software development and relational database design.
-
 ---
 
 *Always learning. Always building.*
